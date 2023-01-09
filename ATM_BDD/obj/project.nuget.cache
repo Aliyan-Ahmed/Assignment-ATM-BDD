@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "pG59CR0VILp+m1iJxFb0F3hDEUO2i+u7TxZIZ1wV4NSunfSSCHqwZ2wn62Q2athTVpbDnW6yqWukZIIPMTeOPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsalan Warsi\\Desktop\\ATM_BDD\\ATM_BDD\\ATM_BDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\specflow\\3.9.40\\specflow.3.9.40.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\specflow.nunit\\3.9.40\\specflow.nunit.3.9.40.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.40\\specflow.tools.msbuild.generation.3.9.40.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Arsalan Warsi\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
